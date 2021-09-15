@@ -1,3 +1,1 @@
-# chyroc.deno.dev
-
-https://chyroc.deno.dev/
+https://chyroc.deno.dev
